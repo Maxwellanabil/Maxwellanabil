@@ -1,4 +1,4 @@
-## Hi there 👋  my name a Maxwell a i en
+## Hi there 👋  my name a Maxwell a i
 
 <!--
 **Maxwellanabil/Maxwellanabil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
